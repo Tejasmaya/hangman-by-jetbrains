@@ -1,7 +1,7 @@
 # hangman by jetbrains
  a CLI game
 
-
+```
 
 # # Write your code here
 # import random
@@ -101,3 +101,4 @@
 # 
 # menu()
 
+```
